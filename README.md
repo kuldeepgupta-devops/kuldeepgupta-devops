@@ -1,185 +1,275 @@
 <div align="center">
 
-☁️ Hi, I'm Kuldeep Gupta
-🚀 Cloud & DevOps Engineer | Azure Enthusiast | Infrastructure Automation
+# Hi, I'm Kuldeep Gupta
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Building+Cloud+Infrastructure;Automating+Infrastructure+with+Terraform;Building+CI%2FCD+Pipelines;Docker+%7C+Kubernetes+%7C+Azure;Cloud+%7C+DevOps+%7C+DevSecOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Cloud+%26+DevOps+Engineer;Microsoft+Azure+%7C+Terraform;Azure+DevOps+%7C+GitHub+Actions;Infrastructure+as+Code+(IaC);Cloud+Infrastructure+Automation;DevSecOps+%7C+CI%2FCD+Automation" />
 
-<br>
+<p>
 
-<a href="https://www.linkedin.com/in/kuldeepguptaazure"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a>
+<a href="https://linkedin.com/in/kuldeepguptaazure">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="https://github.com/kuldeepgupta-devops"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /> </a>
+<a href="mailto:guptakuldeep9090@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kuldeepgupta-devops">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=kuldeepgupta-devops&label=Profile%20Views&style=for-the-badge&color=0078D4"/>
 
 </div>
 
-💫 About Me
+---
 
-I am a Cloud & DevOps Engineer focused on building secure, scalable, and highly available cloud infrastructure using modern DevOps practices.
+# 👨‍💻 About Me
 
-My experience includes Microsoft Azure, Terraform, CI/CD automation, Docker, Kubernetes (AKS), Azure Networking, cloud security, monitoring, and DevSecOps.
+Hi, I'm **Kuldeep Gupta** — a **Cloud & DevOps Engineer** passionate about building secure, scalable, and automated cloud infrastructure on **Microsoft Azure**.
 
-I enjoy automating infrastructure, building deployment pipelines, troubleshooting production environments, and continuously improving cloud operations.
+I specialize in **Infrastructure as Code (Terraform), Azure DevOps, GitHub Actions, Kubernetes (AKS), Docker, Cloud Networking, and DevSecOps** with practical experience designing production-ready Azure environments.
 
-🎯 Current Focus
+Currently working as a **Cloud & DevOps Engineer at Appmentro Private Limited**, where I automate infrastructure provisioning, CI/CD pipelines, cloud networking, monitoring, and security following industry best practices.
 
-🔹 Microsoft Azure Cloud Infrastructure
+---
 
-🔹 Infrastructure as Code with Terraform
+☁️ Microsoft Azure Cloud Infrastructure
 
-🔹 CI/CD Pipeline Automation
+🏗️ Terraform Infrastructure as Code (IaC)
 
-🔹 Docker & Kubernetes (AKS)
+⚙️ Azure DevOps & GitHub Actions CI/CD
 
-🔹 Azure Networking & Security
+🐳 Docker & Azure Kubernetes Service (AKS)
 
-🔹 DevSecOps Practices
+🔐 DevSecOps & Cloud Security
 
-🔹 Cloud Monitoring & Troubleshooting
+🌐 Azure Networking & Hybrid Connectivity
 
-🔹 Infrastructure Automation
+📊 Azure Monitor & Log Analytics
 
-🛠️ Tech Stack
-☁️ Cloud Technologies
+🐧 Linux | PowerShell | Python | Bash
 
-<p> <img src="https://skillicons.dev/icons?i=azure" /> </p>
+🚀 **Automate. Secure. Scale.**
 
-Microsoft Azure
+---
 
-Azure App Service • Azure Storage • Azure SQL • Azure Key Vault • Azure Monitor
+# 🚀 Core Expertise
 
-🏗️ Infrastructure as Code
+### ☁️ Microsoft Azure
 
-<p> <img src="https://skillicons.dev/icons?i=terraform" /> </p>
+- Azure Virtual Machines
+- Resource Groups
+- Storage Accounts
+- Azure App Service
+- Azure SQL Database
+- Azure Container Registry (ACR)
+- Azure Kubernetes Service (AKS)
 
-Terraform
+---
 
-Remote Backend • State Locking • Modules • Workspaces • Variables • Outputs • Lifecycle Blocks • Data Sources
+### 🏗️ Infrastructure as Code (Terraform)
 
-⚙️ DevOps & CI/CD
+- Terraform Modules
+- Remote Backend
+- State Locking
+- Workspaces
+- Variables & Outputs
+- Lifecycle Blocks
+- Data Sources
+- Dynamic Resource Provisioning
 
-<p> <img src="https://skillicons.dev/icons?i=azuredevops,github,git" /> </p>
+---
 
-Azure DevOps • Azure Pipelines • GitHub Actions • YAML Pipelines • Git • Azure Repos
+### 🌐 Azure Networking
 
-🐳 Containers & Kubernetes
+- Virtual Networks (VNet)
+- Subnets
+- Network Security Groups (NSG)
+- User Defined Routes (UDR)
+- Load Balancer
+- Application Gateway
+- VPN Gateway
+- Azure Bastion
+- NAT Gateway
+- Azure DNS
 
-<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> </p>
+---
 
-Docker • Kubernetes (AKS) • Azure Container Registry (ACR)
+### ⚙️ DevOps & CI/CD
 
-🌐 Azure Networking
+- Azure DevOps Pipelines
+- GitHub Actions
+- YAML Pipelines
+- Multi-stage CI/CD
+- Infrastructure Deployment Automation
+- Release Management
 
-VNet • Subnet • NSG • UDR • Load Balancer • Application Gateway • VPN Gateway • Azure Bastion • NAT Gateway • Azure DNS
+---
 
-🔐 Security & DevSecOps
+### 🔐 DevSecOps
 
-Microsoft Entra ID • Azure RBAC • Managed Identity • Azure Key Vault
+- Microsoft Entra ID
+- Azure RBAC
+- Managed Identity
+- Azure Key Vault
+- Tfsec
+- TFLint
+- Terratest
+- TruffleHog
+- Super-Linter
 
-tfsec • TFLint • Terratest • TruffleHog • Super-Linter
+---
 
-📊 Monitoring & Operations
+# 🛠️ Technical Expertise
 
-Azure Monitor • Log Analytics • Network Watcher • Alerts
+<p align="center">
 
-💻 Scripting & Operating Systems
+<img src="https://skillicons.dev/icons?i=azure" />
+<img src="https://skillicons.dev/icons?i=terraform" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=powershell" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=bash" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-<p> <img src="https://skillicons.dev/icons?i=powershell,python,bash,linux" /> </p>
+</p>
 
-PowerShell • Python • Bash • Linux • Windows Server
+---
 
-🚀 Projects & Implementations
-🌐 Azure Network Operations & Infrastructure Management
+# 💼 Professional Experience
 
-Managed Azure production network infrastructure and worked with:
+## Cloud & DevOps Engineer
 
-VNet • Subnet • NSG • UDR • Load Balancer • Application Gateway • VPN Gateway • Azure Bastion • NAT Gateway • Azure DNS
+**Appmentro Private Limited**
 
-Monitored and troubleshot infrastructure using:
+📅 **June 2024 – Present**
 
-Azure Monitor • Log Analytics • Network Watcher
+### Responsibilities
 
-Worked on routing, DNS, VPN, NSG, firewall, and VM connectivity troubleshooting.
+- Provision Azure cloud infrastructure using Terraform following Infrastructure as Code (IaC) practices.
+- Develop reusable Terraform Modules with Remote Backend, State Locking, Variables, Outputs, Workspaces, Lifecycle Blocks, and Data Sources.
+- Build and maintain Azure DevOps multi-stage YAML pipelines across Development, QA, UAT, and Production environments.
+- Automate infrastructure deployments using Azure DevOps, GitHub Actions, PowerShell, and Python.
+- Deploy and manage containerized workloads using Docker, Azure Kubernetes Service (AKS), and Azure Container Registry (ACR).
+- Configure Azure networking including VNet, NSG, UDR, Load Balancer, Application Gateway, VPN Gateway, Azure Bastion, NAT Gateway, and Azure DNS.
+- Implement Azure security using Microsoft Entra ID, Azure RBAC, Managed Identity, and Azure Key Vault.
+- Configure Azure Monitor, Log Analytics, Alerts, and Network Watcher for monitoring and troubleshooting.
+- Collaborate with Development, QA, and Infrastructure teams for production deployments, release management, RCA, and infrastructure improvements.
 
-🎓 Azure Cloud Infrastructure for Learning Management System (LMS)
+---
 
-Designed secure Azure infrastructure for a cloud-based Learning Management System.
+# 🚀 Featured Projects
 
-Implemented:
+## 🌐 Azure Network Operations & Infrastructure Management
 
-Reusable Terraform modules
-Azure DevOps YAML CI/CD pipelines
-Azure Key Vault
-Microsoft Entra ID
-Azure App Service
-Azure SQL Database
-Azure Storage Account
-Azure Monitor
-Log Analytics
-PowerShell automation
-💼 Professional Experience
-Cloud & DevOps Engineer | Appmentro Private Limited
+Managed enterprise-grade Azure production networking infrastructure.
 
-June 2024 – Present | Noida, Uttar Pradesh
+### Highlights
 
-Provisioned and managed Microsoft Azure infrastructure using Terraform.
-Designed reusable Terraform modules with Remote Backend and State Locking.
-Built multi-stage Azure DevOps YAML CI/CD pipelines.
-Automated infrastructure and application deployments using Azure DevOps, GitHub Actions, PowerShell, and Python.
-Deployed containerized applications using Docker, AKS, and ACR.
-Configured Azure networking and security services.
-Implemented Microsoft Entra ID, Azure RBAC, Managed Identity, and Azure Key Vault.
-Configured Azure Monitor, Log Analytics, Alerts, and Network Watcher.
-Supported production deployments, incident resolution, RCA, and infrastructure improvements.
-📚 Currently Learning & Exploring
-Advanced Terraform Modules
-Kubernetes & AKS
-Advanced CI/CD Automation
-DevSecOps
-Azure Monitoring & Observability
-Cloud Security
-Infrastructure Automation
-Production Cloud Operations
-🏆 Certification
-Microsoft Certified: Azure Administrator Associate
+- Configured Azure VNet, Subnets, NSG, UDR, VPN Gateway, Azure Bastion, Load Balancer, NAT Gateway, Azure DNS, and Application Gateway.
+- Managed production networking.
+- Implemented Azure Monitor and Log Analytics.
+- Troubleshot routing, DNS, firewall, VPN, NSG, and VM connectivity issues.
+- Supported production deployments and incident management.
 
-AZ-104
+**Technologies**
 
-🎓 Education
-Master of Computer Applications – Cloud Computing
+`Microsoft Azure` • `Terraform` • `Azure Networking` • `Azure Monitor` • `Log Analytics` • `PowerShell`
 
-Chandigarh University | Online | 2026 – Present
+---
 
-Bachelor of Computer Applications
+## 🎓 Azure Cloud Infrastructure for Learning Management System (LMS)
 
-Awadhesh Pratap Singh University | 2021 – 2024
+Designed and deployed secure Azure infrastructure for a cloud-based LMS.
 
-📊 GitHub Statistics
+### Highlights
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=kuldeepgupta-devops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepgupta-devops&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+- Provisioned Azure resources using reusable Terraform Modules.
+- Developed Azure DevOps YAML pipelines.
+- Integrated Microsoft Entra ID and Azure Key Vault.
+- Configured Azure App Service.
+- Azure SQL Database.
+- Azure Storage Account.
+- Azure Monitor.
+- Log Analytics.
+- Automated deployments using PowerShell.
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=kuldeepgupta-devops&theme=tokyonight&hide_border=true" /> </p>
+**Technologies**
 
-📈 Contribution Activity
+`Azure` • `Terraform` • `Azure DevOps` • `Azure App Service` • `Azure SQL Database` • `Azure Storage` • `Azure Key Vault`
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepgupta-devops&theme=tokyo-night&hide_border=true" /> </p>
+---
 
-🤝 Let's Connect
+# 📚 Currently Exploring
 
-📧 Email: guptakuldeep9090@gmail.com
+☁️ Azure Landing Zones
 
-💼 LinkedIn:
-https://www.linkedin.com/in/kuldeepguptaazure
+🚀 Platform Engineering
 
-🐙 GitHub:
+🤖 AIOps
+
+🔐 Advanced DevSecOps
+
+📊 Observability
+
+🌍 Multi-Cloud Architecture (AWS & GCP)
+
+---
+
+# 🎓 Education
+
+### Chandigarh University
+
+**Master of Computer Applications (Cloud Computing)**
+
+2026 – Present
+
+---
+
+### Awadhesh Pratap Singh University
+
+**Bachelor of Computer Applications**
+
+2021 – 2024
+
+---
+
+# 🏆 Certification
+
+✅ **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+
+---
+
+# 🤝 Connect With Me
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/kuldeepguptaazure
+
+🐙 **GitHub**
+
 https://github.com/kuldeepgupta-devops
 
-⚡ Fun Fact
+📧 **Email**
 
-I believe the best way to learn Cloud & DevOps is by building infrastructure, automating deployments, troubleshooting real-world problems, and continuously improving the way systems are delivered and operated.
+guptakuldeep9090@gmail.com
+
+📍 **Location**
+
+Noida, Uttar Pradesh, India
+
+---
 
 <div align="center">
 
-🚀 Build • Automate • Deploy • Monitor
+## 🚀 *"Automate Infrastructure. Secure Cloud. Deliver Faster."* ⚙️
 
 </div>
