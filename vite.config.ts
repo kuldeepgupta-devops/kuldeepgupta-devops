@@ -1,16 +1,13 @@
-import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
-import tailwindcss from "@tailwindcss/vite";
-import { fileURLToPath, URL } from "node:url";
+import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 
 export default defineConfig({
-base: "/",
+  vite: {
+    base: "/kuldeepgupta-devops/",
+  },
 
-plugins: [react(), tailwindcss()],
-
-resolve: {
-alias: {
-"@": fileURLToPath(new URL("./src", import.meta.url)),
-},
-},
+  tanstackStart: {
+    server: {
+      entry: "server",
+    },
+  },
 });
