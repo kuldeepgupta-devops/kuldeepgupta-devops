@@ -39,7 +39,16 @@ jobs:
         uses: actions/configure-pages@v6
         env:
           NODE_OPTIONS: --use-system-ca
-
+          
+       - name: Check build output
+         run: |
+           echo "=== dist ==="
+           ls -la dist || true
+           echo "=== dist/client ==="
+           ls -la dist/client || true
+           echo "=== .output/public ==="
+           ls -la .output/public || true
+           
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
