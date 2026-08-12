@@ -174,13 +174,13 @@ function Hero() {
               <Linkedin className="h-4 w-4" /> LinkedIn
             </a>
             <a
-              href="/kuldeepgupta-devops/Resume.pdf"
+               href="/kuldeepgupta-devops/Resume.pdf"
                download="Kuldeep-Gupta-Resume.pdf"
-              className="glass inline-flex items-center gap-2 rounded-lg px-5 py-2.5 text-sm font-semibold"
+               className="glass inline-flex items-center gap-2 rounded-lg px-5 py-2.5 text-sm font-semibold"
              >
                 <Download className="h-4 w-4" /> Download Resume
-             </a>
-            <a
+            </a>            
+             <a
               href="#contact"
               className="glass inline-flex items-center gap-2 rounded-lg px-5 py-2.5 text-sm font-semibold"
             >
