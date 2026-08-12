@@ -40,10 +40,19 @@ jobs:
         env:
           NODE_OPTIONS: --use-system-ca
 
+      - name: Check build output
+        run: |
+          echo "=== dist ==="
+          ls -la dist || true
+          echo "=== dist/client ==="
+          ls -la dist/client || true
+          echo "=== dist/client/resume ==="
+          ls -la dist/client/resume || true
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: "./.output/public"
+          path: "./dist/client"
 
   deploy:
     needs: build

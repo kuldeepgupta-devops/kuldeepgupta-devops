@@ -1,6 +1,8 @@
 import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 
 export default defineConfig({
+  nitro: false,
+
   vite: {
     base: "/kuldeepgupta-devops/",
   },
@@ -8,6 +10,13 @@ export default defineConfig({
   tanstackStart: {
     server: {
       entry: "server",
+    },
+
+    prerender: {
+      enabled: true,
+      crawlLinks: true,
+      autoSubfolderIndex: true,
+      failOnError: true,
     },
   },
 });
