@@ -46,8 +46,8 @@ jobs:
           ls -la dist || true
           echo "=== dist/client ==="
           ls -la dist/client || true
-          echo "=== .output/public ==="
-          ls -la .output/public || true
+          echo "=== dist/client/resume ==="
+          ls -la dist/client/resume || true
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
