@@ -223,21 +223,30 @@ Azure DevOps Engineer | DevOps Engineer | Azure Cloud Engineer | DevSecOps Engin
 
 Provision and manage Azure cloud infrastructure including Virtual Machines, VNets, NSGs, App Services, Azure SQL, Storage Accounts, Key Vault, and Private Endpoints using Infrastructure as Code principles.
 •
+
 Develop reusable Terraform modules and manage infrastructure lifecycle using remote state, workspaces, data sources, dynamic blocks, lifecycle rules, and Terraform Import.
 •
+
 Design, implement, maintain, and troubleshoot multi-stage YAML CI/CD pipelines using Azure DevOps and GitHub Actions.
 •
+
 Implement reusable pipeline templates, environment-specific configurations, approval gates, and automated infrastructure provisioning workflows.
 •
+
 Integrate Checkov, tfsec, and TFLint for Infrastructure as Code validation, Trivy for container image scanning, and Gitleaks for secret detection.
 •
+
 Implement cloud security and governance using Microsoft Entra ID, Azure RBAC, Managed Identities, Azure Key Vault, and Azure Policy.
 •
+
 Configure and troubleshoot Azure networking components including Hub-and-Spoke architecture, VNet Peering, NSGs, UDRs, Private Endpoints, Application Gateway, Load Balancer, VPN Gateway, and DNS.
 •
+
 Support containerized infrastructure using Docker, Azure Container Registry (ACR), AKS, and Helm; manage AKS workloads and resources including Deployments, Services, Ingress, ConfigMaps, Secrets, Health Probes, and HPA.
+
 •Implement infrastructure monitoring, centralized logging, and alerting using Azure Monitor, Log Analytics, Application
 Insights, Prometheus, Grafana, and ELK Stack.
+
 •Perform infrastructure troubleshooting, operational support, incident investigation, and root cause analysis using Linux,
 Bash, PowerShell, Python, and Azure CLI.
 
@@ -246,9 +255,12 @@ Bash, PowerShell, Python, and Azure CLI.
 Project: CloudForge – Azure Infrastructure Provisioning
 •Provisioned Azure infrastructure including Resource Groups, VNets, Subnets, NSGs, Linux VMs and Storage Accounts
 using Terraform.
+
 •Automated Terraform plan and apply workflows through Azure DevOps YAML pipelines.
+
 •Developed reusable Terraform configurations and configured Azure Storage remote state to standardize provisioning
 and centralize infrastructure state management.
+
 •Supported deployment workflows, pipeline troubleshooting, version control and team collaboration using Git and Azure
 Repos.
 
@@ -264,13 +276,18 @@ Managed enterprise-grade Azure production networking infrastructure.
 
 -Implemented and supported Azure network foundations using VNets, Subnets, NSGs, UDRs, VNet Peering, VPN
 Gateway, DNS, and Private Endpoints.
+
 •Configured traffic distribution and application connectivity using Azure Load Balancer and Application Gateway.
+
 •Troubleshot infrastructure connectivity issues involving DNS resolution, routing, VPN connectivity, NSG rules, and
 virtual machine access using Azure monitoring and diagnostic tools.
+
 •Supported Linux and Windows Server operations, including IIS, SSL certificates, application pools, and server log
 troubleshooting.
+
 •Monitored infrastructure health, investigated alerts, supported incident resolution, and performed root cause analysis
 with operational scripting.
+
 **Technologies**
 
 Azure, Hub-and-Spoke Networking, Linux, Windows Server, Monitoring
@@ -285,18 +302,26 @@ Designed and deployed secure Azure infrastructure for a cloud-based LMS.
 
 - •Owned infrastructure-side provisioning for the LMS environment on Azure; application development and applicationlevel
 responsibilities were handled by the application team.
+
 •Designed and provisioned Azure infrastructure components including App Services, Azure SQL, Storage Accounts,
 VNets, Subnets, and NSGs using reusable Terraform configurations.
+
 •Structured Terraform configurations for multi-environment provisioning using variables, data sources, workspaces,
 remote state, and for_each.
+
 •Built multi-stage Azure DevOps YAML pipelines with reusable templates and environment approval gates to automate
 Terraform plan and apply workflows.
+
 •Integrated Checkov, tfsec, and TFLint for Terraform validation and Trivy for container image scanning in automated
 CI/CD workflows.
+
 •Configured infrastructure access and governance using Microsoft Entra ID, RBAC, Managed Identities, Key Vault, and
 Azure Policy.
+
 •Supported infrastructure monitoring and troubleshooting through Azure Monitor and Log Analytics.
+
 •Achieved a recorded 70% reduction in infrastructure deployment time.
+
 **Technologies**
 
 `Microsoft Azure, Terraform, Azure DevOps, Networking, Key Vault, Azure Monitor
