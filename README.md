@@ -221,28 +221,28 @@ Azure DevOps Engineer | DevOps Engineer | Azure Cloud Engineer | DevSecOps Engin
 
 ### Responsibilities
 
-Provision and manage Azure cloud infrastructure including Virtual Machines, VNets, NSGs, App Services, Azure SQL, Storage Accounts, Key Vault, and Private Endpoints using Infrastructure as Code principles.
-•
+•Provision and manage Azure cloud infrastructure including Virtual Machines, VNets, NSGs, App Services, Azure SQL, Storage Accounts, Key Vault, and Private Endpoints using Infrastructure as Code principles.
 
-Develop reusable Terraform modules and manage infrastructure lifecycle using remote state, workspaces, data sources, dynamic blocks, lifecycle rules, and Terraform Import.
-•
 
-Design, implement, maintain, and troubleshoot multi-stage YAML CI/CD pipelines using Azure DevOps and GitHub Actions.
-•
+•Develop reusable Terraform modules and manage infrastructure lifecycle using remote state, workspaces, data sources, dynamic blocks, lifecycle rules, and Terraform Import.
 
-Implement reusable pipeline templates, environment-specific configurations, approval gates, and automated infrastructure provisioning workflows.
-•
 
-Integrate Checkov, tfsec, and TFLint for Infrastructure as Code validation, Trivy for container image scanning, and Gitleaks for secret detection.
-•
+•Design, implement, maintain, and troubleshoot multi-stage YAML CI/CD pipelines using Azure DevOps and GitHub Actions.
 
-Implement cloud security and governance using Microsoft Entra ID, Azure RBAC, Managed Identities, Azure Key Vault, and Azure Policy.
-•
 
-Configure and troubleshoot Azure networking components including Hub-and-Spoke architecture, VNet Peering, NSGs, UDRs, Private Endpoints, Application Gateway, Load Balancer, VPN Gateway, and DNS.
-•
+•Implement reusable pipeline templates, environment-specific configurations, approval gates, and automated infrastructure provisioning workflows.
 
-Support containerized infrastructure using Docker, Azure Container Registry (ACR), AKS, and Helm; manage AKS workloads and resources including Deployments, Services, Ingress, ConfigMaps, Secrets, Health Probes, and HPA.
+
+•Integrate Checkov, tfsec, and TFLint for Infrastructure as Code validation, Trivy for container image scanning, and Gitleaks for secret detection.
+
+
+•Implement cloud security and governance using Microsoft Entra ID, Azure RBAC, Managed Identities, Azure Key Vault, and Azure Policy.
+
+
+•Configure and troubleshoot Azure networking components including Hub-and-Spoke architecture, VNet Peering, NSGs, UDRs, Private Endpoints, Application Gateway, Load Balancer, VPN Gateway, and DNS.
+
+
+•Support containerized infrastructure using Docker, Azure Container Registry (ACR), AKS, and Helm; manage AKS workloads and resources including Deployments, Services, Ingress, ConfigMaps, Secrets, Health Probes, and HPA.
 
 •Implement infrastructure monitoring, centralized logging, and alerting using Azure Monitor, Log Analytics, Application
 Insights, Prometheus, Grafana, and ELK Stack.
