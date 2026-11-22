@@ -39,21 +39,28 @@ Currently working as a **DevOps Engineer at Appmentro Private Limited**, where I
 ### 🛠️ Technical Skills
 
 
-Cloud Platforms:
+**Cloud Platforms:**
 Microsoft Azure, Azure VMs, VNets, Subnets, NSGs, Resource Groups, App Services, Azure Functions,Azure SQL, Storage Accounts, ACR, AKS, Key Vault, Private Endpoints, Azure Landing Zones.
-Infrastructure as Code:
+
+**Infrastructure as Code:**
 Terraform, Reusable Modules, Remote State, Workspaces, Data Sources, Dynamic Blocks, LifecycleRules, Terraform Import, Azure CLI.
-CI/CD & Automation:
+
+**CI/CD & Automation:**
 Azure DevOps, GitHub Actions, YAML Pipelines, Multi-stage Pipelines, Reusable Templates, Buildand Release Automation, Environment Approvals.
-Cloud Networking:
+
+**Cloud Networking:**
 Hub-and-Spoke Architecture, VNet Peering, UDRs, DNS, Load Balancer, Application Gateway, VPNGateway, TCP/IP, Private Connectivity.
-Containers & Azure Platform Engineering:
+
+**Containers & Azure Platform Engineering:**
 Docker, Azure Kubernetes Service (AKS), Helm, Deployments, Services,Ingress, ConfigMaps, Secrets, Health Probes, HPA, Azure Container Registry (ACR).
-DevSecOps & Cloud Security:
+
+**DevSecOps & Cloud Security:**
 Checkov, tfsec, TFLint, Trivy, Gitleaks, IaC Scanning, Container Image Scanning, SecretDetection, Azure Policy, RBAC, Managed Identities, Microsoft Entra ID.
-Monitoring, Observability & Reliability:
+
+**Monitoring, Observability & Reliability:**
 Azure Monitor, Log Analytics, Application Insights, Prometheus, Grafana, ELKStack, Datadog (Basic Hands-on), PagerDuty (Basic Hands-on), Incident Troubleshooting, Root Cause Analysis.
-Operating Systems & Scripting:
+
+**Operating Systems & Scripting:**
 Linux, Ubuntu, Windows Server, PowerShell, Bash, Python, Git.
 ### 🚀 What I Work On
 
