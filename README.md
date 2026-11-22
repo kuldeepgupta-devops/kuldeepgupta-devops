@@ -28,11 +28,78 @@
 
 # 👨‍💻 About Me
 
-Hi, I'm **Kuldeep Gupta** — a **Cloud & DevOps Engineer** passionate about building secure, scalable, and automated cloud infrastructure on **Microsoft Azure**.
+# Hi, I'm Kuldeep Gupta 👋
 
-I specialize in **Infrastructure as Code (Terraform), Azure DevOps, GitHub Actions, Kubernetes (AKS), Docker, Cloud Networking, and DevSecOps** with practical experience designing production-ready Azure environments.
+### DevOps Engineer | Microsoft Azure | Terraform | CI/CD | DevSecOps
 
-Currently working as a **Cloud & DevOps Engineer at Appmentro Private Limited**, where I automate infrastructure provisioning, CI/CD pipelines, cloud networking, monitoring, and security following industry best practices.
+I'm a **DevOps Engineer with 4 years of combined hands-on experience**, including 1.5 years of full-time internship experience, focused on building secure, scalable, automated, and reliable cloud infrastructure.
+
+Currently working as a **DevOps Engineer at Appmentro Private Limited**, where I work on Azure infrastructure automation, Terraform, CI/CD pipelines, cloud networking, infrastructure security, and monitoring.
+
+### 🛠️ Technical Skills
+
+- **Cloud Platform:** Microsoft Azure
+- **Infrastructure as Code:** Terraform, Reusable Modules, Remote State
+- **CI/CD:** Azure DevOps, GitHub Actions, YAML Pipelines
+- **Containers:** Docker, Kubernetes (AKS), Helm
+- **Cloud Networking:** VNets, Subnets, NSGs, VNet Peering, VPN Gateway, Application Gateway
+- **DevSecOps:** Checkov, tfsec, TFLint, Trivy, Gitleaks
+- **Monitoring:** Azure Monitor, Log Analytics, Prometheus, Grafana, ELK Stack
+- **Security:** Azure RBAC, Microsoft Entra ID, Managed Identities, Key Vault
+- **Scripting:** PowerShell, Bash, Python
+- **Operating Systems:** Linux, Ubuntu, Windows Server
+
+### 🚀 What I Work On
+
+- Azure infrastructure provisioning using Terraform.
+- Developing reusable Terraform modules.
+- Building multi-stage Azure DevOps YAML pipelines.
+- Automating infrastructure deployment using GitHub Actions.
+- Implementing DevSecOps security scanning in CI/CD pipelines.
+- Managing Azure networking and cloud infrastructure.
+- Monitoring, troubleshooting, and improving infrastructure reliability.
+
+### 🏆 Certification
+
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+
+### 📌 Current Focus
+
+- Azure Cloud Architecture
+- Terraform & Infrastructure Automation
+- Azure DevOps & CI/CD
+- DevSecOps & Cloud Security
+- Kubernetes & Container Orchestration
+- Azure Landing Zones
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** https://linkedin.com/in/kuldeepguptaazure
+- **GitHub:** https://github.com/kuldeepgupta-devops
+
+📩 Open to opportunities in DevOps, Azure Cloud, Azure DevOps, and DevSecOps Engineering.
+My technical expertise includes:
+
+- **Cloud & Infrastructure:** Microsoft Azure, Azure Landing Zones, Azure VMs, VNets, NSGs, Private Endpoints.
+- **Infrastructure as Code:** Terraform, Reusable Modules, Remote State, Workspaces.
+- **CI/CD & Automation:** Azure DevOps, GitHub Actions, YAML, Multi-stage Pipelines.
+- **Containers & Orchestration:** Docker, Kubernetes, Azure Kubernetes Service (AKS), Helm.
+- **Cloud Networking:** Hub-and-Spoke Architecture, VNet Peering, UDRs, VPN Gateway, Application Gateway, DNS.
+- **DevSecOps & Security:** Checkov, tfsec, TFLint, Trivy, Gitleaks, Azure RBAC, Microsoft Entra ID, Key Vault.
+- **Monitoring & Reliability:** Azure Monitor, Log Analytics, Prometheus, Grafana, ELK Stack.
+- **Scripting & Operating Systems:** PowerShell, Bash, Python, Linux, Git.
+
+I have worked on Azure infrastructure automation and reliability projects, focusing on secure infrastructure provisioning, CI/CD pipeline automation, cloud networking, security integration, monitoring, incident troubleshooting, and root cause analysis.
+
+I hold the **Microsoft Certified: Azure Administrator Associate (AZ-104)** certification and continuously work on improving my cloud engineering, DevOps, and DevSecOps skills.
+
+**Currently Open to Opportunities:**
+
+Azure DevOps Engineer | DevOps Engineer | Azure Cloud Engineer | DevSecOps Engineer | Cloud Infrastructure Engineer | Junior Site Reliability Engineer (SRE)
+
+📍 Open to relevant opportunities across India.
+
+📩 Feel free to connect with me for professional opportunities and collaboration.
 
 ---
 
@@ -264,7 +331,7 @@ guptakuldeep9090@gmail.com
 
 📍 **Location**
 
-Noida, Uttar Pradesh, India
+Bengaluru,Karnataka
 
 ---
 
